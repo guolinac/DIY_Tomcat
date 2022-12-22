@@ -40,6 +40,7 @@ public class Connector implements Runnable {
   public void run() {
     try {
       server = ServerSocketChannel.open();
+      // 非阻塞
       server.configureBlocking(false);
       server.socket().bind(new InetSocketAddress(port));
 
@@ -48,6 +49,7 @@ public class Connector implements Runnable {
       System.out.println("启动服务器， 监听端口：" + port + "...");
 
       while (true) {
+        // 监听是否有事件
         selector.select();
         Set<SelectionKey> selectionKeys = selector.selectedKeys();
         for (SelectionKey key : selectionKeys) {

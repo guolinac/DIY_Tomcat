@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1ec8b77-791f-4516-9a35-27f6b1c19fe4" name="Default Changelist" comment="" />
+    <list default="true" id="d1ec8b77-791f-4516-9a35-27f6b1c19fe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIT_Tomcat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DIY_Tomcat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/Bootstrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/TimeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/connector/Connector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/connector/ConnectorUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/connector/HttpStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/connector/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/connector/RequestFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/connector/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/connector/ResponseFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/images/imooc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/processor/ServletProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DIT_Tomcat/processor/StaticProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/DIT_Tomcat/TestClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/DIT_Tomcat/connector/RequestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/DIT_Tomcat/connector/ResponseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/DIT_Tomcat/processor/ProcessorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/DIT_Tomcat/util/TestUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connector/Connector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connector/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/processor/StaticProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/processor/StaticProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestClient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -24,39 +57,63 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29770115" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="JUnit.RequestTest.givenValidRequest_thenExtrackUri">
+  <component name="RunManager" selected="Application.TestClient">
     <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bootstrap" />
-      <module name="DIT_Tomcat" />
+      <module name="DIY_Tomcat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RequestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DIT_Tomcat" />
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClient" />
+      <module name="DIY_Tomcat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIY_Tomcat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="connector.*" />
+          <option name="PATTERN" value="processor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="connector" />
-      <option name="MAIN_CLASS_NAME" value="connector.RequestTest" />
+      <option name="PACKAGE_NAME" value="processor" />
+      <option name="MAIN_CLASS_NAME" value="processor.ProcessorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RequestTest.givenValidRequest_thenExtrackUri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DIT_Tomcat" />
+    <configuration name="ProcessorTest.givenServletRequest_thenLoadServlet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIY_Tomcat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="processor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="processor" />
+      <option name="MAIN_CLASS_NAME" value="processor.ProcessorTest" />
+      <option name="METHOD_NAME" value="givenServletRequest_thenLoadServlet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponseTest.givenValidRequest_thenReturnStaticResource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIY_Tomcat" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="connector.*" />
@@ -64,8 +121,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="connector" />
-      <option name="MAIN_CLASS_NAME" value="connector.RequestTest" />
-      <option name="METHOD_NAME" value="givenValidRequest_thenExtrackUri" />
+      <option name="MAIN_CLASS_NAME" value="connector.ResponseTest" />
+      <option name="METHOD_NAME" value="givenValidRequest_thenReturnStaticResource" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,9 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RequestTest.givenValidRequest_thenExtrackUri" />
-        <item itemvalue="JUnit.RequestTest" />
+        <item itemvalue="Application.TestClient" />
+        <item itemvalue="JUnit.ProcessorTest" />
+        <item itemvalue="JUnit.ProcessorTest.givenServletRequest_thenLoadServlet" />
         <item itemvalue="Application.Bootstrap" />
+        <item itemvalue="JUnit.ResponseTest.givenValidRequest_thenReturnStaticResource" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +150,8 @@
       <updated>1671719945754</updated>
       <workItem from="1671719946944" duration="197000" />
       <workItem from="1671720153433" duration="1352000" />
+      <workItem from="1671721721329" duration="345000" />
+      <workItem from="1671722075441" duration="4216000" />
     </task>
     <servers />
   </component>
@@ -102,47 +163,59 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="502" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671719963604" />
-    <state x="2238" y="387" key="FileChooserDialogImpl" timestamp="1671720256934">
+    <state x="2238" y="387" key="FileChooserDialogImpl" timestamp="1671722244183">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2238" y="387" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671720256934" />
-    <state width="1345" height="337" key="GridCell.Tab.0.bottom" timestamp="1671721515518">
+    <state x="2238" y="387" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722244183" />
+    <state width="1345" height="273" key="GridCell.Tab.0.bottom" timestamp="1671725871841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state width="1345" height="337" key="GridCell.Tab.0.center" timestamp="1671721515518">
+    <state width="1345" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725871841" />
+    <state width="1345" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722251434" />
+    <state width="1345" height="273" key="GridCell.Tab.0.center" timestamp="1671725871841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state width="1345" height="337" key="GridCell.Tab.0.left" timestamp="1671721515518">
+    <state width="1345" height="273" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725871841" />
+    <state width="1345" height="273" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722251434" />
+    <state width="1345" height="273" key="GridCell.Tab.0.left" timestamp="1671725871841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state width="1345" height="337" key="GridCell.Tab.0.right" timestamp="1671721515518">
+    <state width="1345" height="273" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725871841" />
+    <state width="1345" height="273" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722251434" />
+    <state width="1345" height="273" key="GridCell.Tab.0.right" timestamp="1671725871841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state width="1345" height="337" key="GridCell.Tab.1.bottom" timestamp="1671721515518">
+    <state width="1345" height="273" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725871841" />
+    <state width="1345" height="273" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722251434" />
+    <state width="1345" height="308" key="GridCell.Tab.1.bottom" timestamp="1671725865873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state width="1345" height="337" key="GridCell.Tab.1.center" timestamp="1671721515518">
+    <state width="1345" height="308" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725865873" />
+    <state width="1345" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722067644" />
+    <state width="1345" height="308" key="GridCell.Tab.1.center" timestamp="1671725865873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state width="1345" height="337" key="GridCell.Tab.1.left" timestamp="1671721515518">
+    <state width="1345" height="308" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725865873" />
+    <state width="1345" height="337" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722067644" />
+    <state width="1345" height="308" key="GridCell.Tab.1.left" timestamp="1671725865873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state width="1345" height="337" key="GridCell.Tab.1.right" timestamp="1671721515518">
+    <state width="1345" height="308" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725865873" />
+    <state width="1345" height="337" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722067644" />
+    <state width="1345" height="308" key="GridCell.Tab.1.right" timestamp="1671725865873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="337" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
-    <state x="624" y="264" key="SettingsEditor" timestamp="1671721445067">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1345" height="308" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671725865873" />
+    <state width="1345" height="337" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722067644" />
+    <state x="2088" y="135" key="SettingsEditor" timestamp="1671722248309">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="264" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721445067" />
-    <state x="2088" y="135" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671720263060" />
+    <state x="2088" y="135" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671722248309" />
+    <state x="758" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1671723778973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="251" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671723778973" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DIT_Tomcat$RequestTest.ic" NAME="RequestTest Coverage Results" MODIFIED="1671720961424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

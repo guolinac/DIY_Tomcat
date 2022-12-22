@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DIT_Tomcat.iml" filepath="$PROJECT_DIR$/DIT_Tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIY_Tomcat.iml" filepath="$PROJECT_DIR$/DIY_Tomcat.iml" />
     </modules>
   </component>
 </project>

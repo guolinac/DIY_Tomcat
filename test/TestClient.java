@@ -7,6 +7,7 @@ public class TestClient {
     public static void main(String[] args)throws Exception{
         Socket socket = new Socket("localhost", 8888);
         OutputStream output = socket.getOutputStream();
+//        output.write("GET /index.html HTTP/1.1".getBytes());
         output.write("GET /servlet/TimeServlet HTTP/1.1".getBytes());
         socket.shutdownOutput();
 

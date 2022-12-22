@@ -38,7 +38,9 @@ public class Response implements ServletResponse {
 
   private void write(File resource, HttpStatus status) throws IOException {
     try (FileInputStream fis = new FileInputStream(resource)) {
+      // 写状态行
       output.write(ConnectorUtils.renderStatus(status).getBytes());
+
       byte[] buffer = new byte[BUFFER_SIZE];
       int length = 0;
       while ((length = fis.read(buffer, 0, BUFFER_SIZE)) != -1) {
