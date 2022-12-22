@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1ec8b77-791f-4516-9a35-27f6b1c19fe4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.0.5" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="2JH0xGomvVlOzcFHD9hQ6MyfUF1" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="JUnit.RequestTest.givenValidRequest_thenExtrackUri">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bootstrap" />
+      <module name="DIT_Tomcat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIT_Tomcat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="connector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="connector" />
+      <option name="MAIN_CLASS_NAME" value="connector.RequestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestTest.givenValidRequest_thenExtrackUri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DIT_Tomcat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="connector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="connector" />
+      <option name="MAIN_CLASS_NAME" value="connector.RequestTest" />
+      <option name="METHOD_NAME" value="givenValidRequest_thenExtrackUri" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RequestTest.givenValidRequest_thenExtrackUri" />
+        <item itemvalue="JUnit.RequestTest" />
+        <item itemvalue="Application.Bootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1ec8b77-791f-4516-9a35-27f6b1c19fe4" name="Default Changelist" comment="" />
+      <created>1671719945754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671719945754</updated>
+      <workItem from="1671719946944" duration="197000" />
+      <workItem from="1671720153433" duration="1352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671719963604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671719963604" />
+    <state x="2238" y="387" key="FileChooserDialogImpl" timestamp="1671720256934">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2238" y="387" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671720256934" />
+    <state width="1345" height="337" key="GridCell.Tab.0.bottom" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state width="1345" height="337" key="GridCell.Tab.0.center" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state width="1345" height="337" key="GridCell.Tab.0.left" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state width="1345" height="337" key="GridCell.Tab.0.right" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state width="1345" height="337" key="GridCell.Tab.1.bottom" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state width="1345" height="337" key="GridCell.Tab.1.center" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state width="1345" height="337" key="GridCell.Tab.1.left" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state width="1345" height="337" key="GridCell.Tab.1.right" timestamp="1671721515518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="337" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721515518" />
+    <state x="624" y="264" key="SettingsEditor" timestamp="1671721445067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="264" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1671721445067" />
+    <state x="2088" y="135" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1671720263060" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DIT_Tomcat$RequestTest.ic" NAME="RequestTest Coverage Results" MODIFIED="1671720961424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>connector.*</FILTER>
+    </SUITE>
+  </component>
+</project>
